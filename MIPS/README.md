@@ -1,5 +1,5 @@
-#MIPS code sampled
+# MIPS code samples
 
-The following are some examples of my MIPS code samples. Here is a brief description of what each program does.
+### The following are some examples of my MIPS code samples. Here is a brief description of what each program does.
 
 
