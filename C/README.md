@@ -1,4 +1,4 @@
-# C Code Samples
+# *C Code Samples*
 ### simple_diamond.c:
 This program simply prints out a diamond which has a given width specified by the user input. Use gcc to compile, and pass as the argument the height (an odd integer) of the diamond you would like to see:
 Example:
