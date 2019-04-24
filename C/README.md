@@ -4,7 +4,7 @@ This program simply prints out a diamond which has a given width specified by th
 Example:
 gcc simple_diamond.c
 ./a.out 7
-
+```
    *   
   ***  
  ***** 
@@ -12,12 +12,12 @@ gcc simple_diamond.c
  ***** 
   ***  
    *   
-
+```
 ### sierpinski_diamond
 This program is similar to the previous one, except two arguments are passed to the program. Firstly the widthe (which must be a power of 2, minus 1), as well as the level of the division of the sierpinski triangle. Here how to conpile withing the teminal:
 gcc sierpinski_diamond.c
 ./a.out 63 4
-
+```
                                *                               
                               ***                              
                              *****                             
@@ -81,3 +81,4 @@ gcc sierpinski_diamond.c
                              *****                             
                               ***                              
                                *                              
+```
