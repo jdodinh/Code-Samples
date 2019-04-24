@@ -2,7 +2,7 @@
 
 ### The following are some examples of my MIPS code samples. Here is a brief description of what each program does:
 
-#### *_quicksort_*
+#### *quicksort*
 An Implementation of the quicksort algorithm using the MIPS assembly language. Instructions:
 - inputs can be positive numbers of up to two digits, 
 - they should be separated by a single blank space
