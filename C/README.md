@@ -14,7 +14,7 @@ gcc simple_diamond.c
    *   
 ```
 ### sierpinski_diamond
-This program is similar to the previous one, except two arguments are passed to the program. Firstly the widthe (which must be a power of 2, minus 1), as well as the level of the division of the sierpinski triangle. Here how to conpile withing the teminal:
+This program is similar to the previous one, except two arguments are now passed to the program. Firstly the width (which must be a power of 2, minus 1), as well as the level of the division of the sierpinski triangle. Here is a compilation example within the teminal:
 ```
 gcc sierpinski_diamond.c
 ./a.out 63 4
